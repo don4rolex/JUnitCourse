@@ -13,7 +13,7 @@ import org.junit.runners.Suite;
  * @author Andrew
  */
 @RunWith(Suite.class)
-@Suite.SuiteClasses({QuickBeforeAfterTest.class, StringHelperTest.class})
+@Suite.SuiteClasses({QuickBeforeAfterTest.class, StringHelperTest.class, ArraysCompareTest.class})
 public class TestSuite {
     
 }
