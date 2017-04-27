@@ -5,6 +5,7 @@
  */
 package com.andrew.junitcourse;
 
+import com.andrew.junit.helper.StringHelper;
 import static org.junit.Assert.*;
 import org.junit.Test;
 

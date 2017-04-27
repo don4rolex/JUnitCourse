@@ -5,6 +5,7 @@
  */
 package com.andrew.junitcourse;
 
+import com.andrew.junit.helper.StringHelper;
 import java.util.Arrays;
 import java.util.Collection;
 import static org.junit.Assert.*;
