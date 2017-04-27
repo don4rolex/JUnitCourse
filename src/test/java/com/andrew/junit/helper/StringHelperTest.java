@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.andrew.junitcourse;
+package com.andrew.junit.helper;
 
 import com.andrew.junit.helper.StringHelper;
 import static org.junit.Assert.*;
